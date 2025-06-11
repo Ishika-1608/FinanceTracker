@@ -1,4 +1,5 @@
 💰 Personal Finance Tracker
+
 Welcome to the Personal Finance Tracker, a sleek command-line C program designed to help you manage your money with ease! 📊 Built from scratch as a beginner-friendly project, this tool showcases core C programming skills like file I/O, structs, arrays, and robust input handling. Perfect for tracking income and expenses, it’s a resume-worthy project that demonstrates practical coding prowess! 🚀
 
 🌟 Features
@@ -12,6 +13,7 @@ Welcome to the Personal Finance Tracker, a sleek command-line C program designed
 
 
 🛠️ Prerequisites
+
 To dive into this project, you’ll need:
 
 Git: To clone the repository (install Git). 🗂️
@@ -168,7 +170,8 @@ Need Help? File an issue: [https://github.com/Ishika-1608/FinanceTracker/issues]
 
 
 👩‍💻 Author
-Ishika MalavA beginner-friendly C project showcasing skills in file I/O, structs, arrays, and robust error handling.  
+Ishika Malav 
+A beginner-friendly C project showcasing skills in file I/O, structs, arrays, and robust error handling.  
 
 GitHub: https://github.com/Ishika-1608/FinanceTracker  
 Created: June 2025
